@@ -7,16 +7,15 @@ If you’ve ever used Rufus to create Windows Installation Media, you might have
 I've created a few of these answer files that I use to automate and streamline my Windows installs just the way I like them, and that’s what I’m sharing with you in this project. 
   - The answer files work on any edition (Home/Pro) of Windows 10 22H2 and Windows 11 23H2.
   - *Windows 11 24H2 will be tested once it's fully released.*
-
 <br/>
 
 ## Why should I use an Answer File?
 
-### <ins>Security:</ins>
+### Security:
   - You can see all of the changes that will be made to the Windows Image by inspecting the answer file.
   - It runs on the Official Windows 10 or 11 ISO downloaded directly from Microsoft, no need to download edited ISO files from Unofficial sources.
   - It's not dependent on any third party tools and is an Official Microsoft Feature used to make Mass Windows Deployments easier.
-### <ins>Automation:</ins>
+### Automation:
   - When installing Windows on multiple computers, there's no need to manually configure settings and run scripts on each machine, which saves a lot of time (and effort).
 <br/>
 
