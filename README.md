@@ -9,7 +9,6 @@ I've created a few of these answer files that I use to automate and streamline m
   - *Windows 11 24H2 will be tested once it's fully released.*
 
 <br/>
-<br/>
 
 ## Why should I use an Answer File?
 
