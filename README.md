@@ -21,8 +21,7 @@ I've created a few of these answer files that I use to automate and streamline m
 
 ## What do answer files do?
 
-### <ins>Choose one of the following versions:</ins>
-### LTSC-Like
+### 1. LTSC-Like
 ### *Recommended for most people*
    - Includes most of the same Windows Packages as LTSC
      - (Windows Security, Edge, Notepad, Snipping Tool, Calculator, Paint, Legacy Windows Media Player) with added Microsoft Store.
@@ -31,7 +30,7 @@ I've created a few of these answer files that I use to automate and streamline m
    - UAC is Disabled by Default to ensure the `currentuser.cmd` script executes correctly at first logon. If you use UAC, please enable it in Control Panel once you're in Windows.
 <br/>
 
-### Standard
+### 2. Standard
 ### *This acts as a "Blank Canvas" where you can start from scratch and only install the software you want).*
    - ALL Windows Packages are removed except for Windows Security. Microsoft Edge (NOT on Win 10 after updates) and Microsoft Store are both removed.
    - Only Security updates are installed, others are delayed for 2 years (max period)
