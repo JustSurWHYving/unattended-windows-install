@@ -67,7 +67,7 @@ In short, you need to include the `autounattend.xml` answer file on your Windows
 > If the following instructions are unclear, follow this [video tutorial.](https://youtu.be/pDEZDD_gEbo)
 </br>
 
-### <ins>Method 1: Create a Bootable Windows Installation Media</ins>
+### Method 1: Create a Bootable Windows Installation Media
 
 1. Download your preferred `autounattend.xml` file and save it on your computer.
 2. Create a [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) or [Windows 11](https://www.microsoft.com/en-us/software-download/windows11) Bootable Installation USB drive with [Rufus](https://rufus.ie/en/). 
@@ -79,7 +79,7 @@ In short, you need to include the `autounattend.xml` answer file on your Windows
 4. Boot from the Windows Installation USB, do a clean install of Windows as normal, and the scripts will run automatically.
 </br>
 
-### <ins>Method 2: Create a Custom ISO File</ins>
+### Method 2: Create a Custom ISO File
 
 1. Download your preferred `autounattend.xml` file and save it on your computer.
 2. Download the [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) or [Windows 11](https://www.microsoft.com/en-us/software-download/windows11) ISO file depending on the version you want.
@@ -96,7 +96,7 @@ In short, you need to include the `autounattend.xml` answer file on your Windows
 5. Boot from the Windows Installation USB, do a clean install of Windows as normal, and the scripts will run automatically.
 </br>
 
-### <ins>Method 3: Use Ventoy Auto Install plugin</ins>
+### Method 3: Use Ventoy Auto Install plugin
 
 1. Download your preferred `autounattend.xml` file and save it on your computer.
 2. Download the [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) or [Windows 11](https://www.microsoft.com/en-us/software-download/windows11) ISO file, depending on the version you want.
