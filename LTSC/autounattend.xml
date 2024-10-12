@@ -493,7 +493,7 @@ Where-Object -FilterScript {
   Set-Service -Name 'WMPNetworkSvc' -StartupType Manual -ErrorAction Continue
   Set-Service -Name 'WManSvc' -StartupType Manual -ErrorAction Continue
   Set-Service -Name 'WPDBusEnum' -StartupType Manual -ErrorAction Continue
-  Set-Service -Name 'WSService' -StartupType Manual -ErrorAction Continue
+  Set-Service -Name 'WSService' -StartupType Automatic -ErrorAction Continue
   Set-Service -Name 'WSearch' -StartupType Automatic -ErrorAction Continue
   Set-Service -Name 'WaaSMedicSvc' -StartupType Manual -ErrorAction Continue
   Set-Service -Name 'WalletService' -StartupType Manual -ErrorAction Continue
